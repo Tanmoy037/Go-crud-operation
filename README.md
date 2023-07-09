@@ -1,8 +1,16 @@
 # Go-crud-operation
 This repository holds crud operation using golang with PostgreSQL.
+
+
 *Framework used -* Gin
+
+
 *Library Used -* Gnome
+
+
 *Packages Used-* godotenv and CompileDaemon
+
+
 
 ![Screenshot (366)](https://github.com/Tanmoy037/Git-Githhub/assets/108757431/96296e38-6f56-4da2-b71e-8a95fd36045a)
 ![Screenshot (367)](https://github.com/Tanmoy037/Git-Githhub/assets/108757431/dbfd34c9-e872-4011-99d2-f05d2d67e241)
