@@ -8,7 +8,7 @@ This repository holds crud operation using golang with PostgreSQL.
 **Library Used -** Gnome
 
 
-*Packages Used-** [godotenv](https://github.com/joho/godotenv)
+**Packages Used-** [godotenv](https://github.com/joho/godotenv)
  and [CompileDaemon](https://github.com/githubnemo/CompileDaemon)
 
 
