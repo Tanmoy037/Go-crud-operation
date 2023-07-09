@@ -2,13 +2,14 @@
 This repository holds crud operation using golang with PostgreSQL.
 
 
-*Framework used -* Gin
+**Framework Used -** Gin
 
 
-*Library Used -* Gnome
+**Library Used -** Gnome
 
 
-*Packages Used-* godotenv and CompileDaemon
+*Packages Used-** [godotenv](https://github.com/joho/godotenv)
+ and [CompileDaemon](https://github.com/githubnemo/CompileDaemon)
 
 
 
