@@ -1,2 +1,3 @@
 # Go-crud-operation
-This repository holds crud operation using golang.
+This repository holds crud operation using golang with PostgreSQL.
+
